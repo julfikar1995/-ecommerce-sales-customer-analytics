@@ -47,17 +47,17 @@ Six raw tables were loaded into MySQL: `website_sessions`, `website_pageviews`, 
 ### Page 1 — Overview
 KPI summary (Revenue, Orders, Conversion Rate, AOV, Profit Margin), a monthly revenue trend, and a website conversion funnel.
 
-![Overview Dashboard](screenshots/01_overview.png)
+![Overview Dashboard](screenshot/01_overview.png)
 
 ### Page 2 — Marketing & Traffic
 Traffic source performance, device-type split, and a detailed channel/device breakdown table.
 
-![Marketing & Traffic Dashboard](screenshots/02_marketing_traffic.png)
+![Marketing & Traffic Dashboard](screenshot/02_marketing_traffic.png)
 
 ### Page 3 — Product & Customer
 Product-level revenue, profit, and refund rates, alongside customer order frequency analysis.
 
-![Product & Customer Dashboard](screenshots/03_product_customer.png)
+![Product & Customer Dashboard](screenshot/03_product_customer.png)
 
 All three pages are fully interactive — Year, Device Type, and Traffic Source slicers are synced across pages and filter every visual (KPIs, trend chart, and funnel) simultaneously.
 
